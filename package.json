@@ -8,6 +8,10 @@
     "start": "node server/server.js",
     "serve": "nodemon server/server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clkkishore/simpleApp.git"
+  },
   "author": "Krishna Kishore",
   "license": "ISC",
   "dependencies": {
